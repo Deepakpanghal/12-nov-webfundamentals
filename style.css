@@ -1,0 +1,81 @@
+.main{
+    height: 600px;
+    background-image: url(./pexels.jpg);
+    background-size: 100% 100%;
+}
+
+header{
+    display: flex;
+    color: #ffffff;
+}
+img{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+h2{
+    margin-left: 40px;
+}
+.explore{
+    margin-left: 700px;
+}
+.license{
+    margin-left: 40px;
+}
+.upload{
+    margin-left: 40px;
+}
+.fa-ellipsis-h{
+    margin-top: 22px;
+    margin-left: 40px;
+}
+.button{
+    background-color: rgb(19, 230, 177);
+    color: #ffffff;
+    height: 30px;
+    width: 80px;
+    margin-top: 17px;
+    margin-left: 40px;
+}
+.text{
+    color: #ffffff;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 90px;
+    margin-bottom: 0px;
+
+}
+.text1{
+    color: #ffffff;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.text2{
+    color: #ffffff;
+    font-size: 60px;
+    margin-top: 0px;
+    margin-left: 300px;
+    margin-bottom: 0px;
+}
+input{
+    height: 60px;
+    width: 700px;
+    margin-left: 300px;
+    margin-right: 0px;
+    margin-top: 0px;
+    border-radius: 12px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border: 1px solid #efefef;
+}
+button{
+    height: 64px;
+    width: 100px;
+    margin-left: -4px;
+    border-radius: 12px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border: 1px solid #efefef;
+    background-color: #ffffff;
+}
